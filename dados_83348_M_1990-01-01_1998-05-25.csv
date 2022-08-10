@@ -1,0 +1,113 @@
+Nome: ILHEUS
+Codigo Estacao: 83348
+Latitude: -14.8
+Longitude: -39.07
+Altitude: 60
+Situacao: Desativada
+Data Inicial: 1990-01-01
+Data Final: 1998-05-25
+Periodicidade da Medicao: Mensal
+
+Data Medicao;EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);
+1990-01-31;null;null;null;241;110,6;null;29,345161;null;21,712903;null;null;null;null;
+1990-02-28;null;null;null;232,3;102,5;null;30,053571;null;21,928571;null;null;null;null;
+1990-03-31;null;null;null;281,7;115,5;null;29,932258;null;21,958065;null;null;null;null;
+1990-04-30;null;null;null;237,8;183,1;null;29,583333;null;21,546667;null;null;null;null;
+1990-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-06-30;null;null;null;174,6;255,2;null;26,196552;null;19,606667;null;null;null;null;
+1990-07-31;null;null;null;196,1;81,6;null;26,116129;null;19,383871;null;null;null;null;
+1990-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1990-09-30;null;null;null;179,2;261,8;null;26,274074;null;19,32;null;null;null;null;
+1990-10-31;null;null;null;180,2;331,6;null;27,058621;null;20,906452;null;null;null;null;
+1990-11-30;null;null;null;217,6;102,3;null;28,71;null;21,4;null;null;null;null;
+1990-12-31;null;null;null;225;130,7;null;28,893548;null;20,858065;null;null;null;null;
+1991-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1991-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1992-07-31;70,1;null;null;135,6;177,1;1014,391803;26,012903;21,885806;18,316129;null;6,6;2,436667;null;
+1992-08-31;null;null;null;null;2,5;null;null;null;null;null;null;null;null;
+1992-09-30;78,4;null;null;186,5;152,9;1010,964912;26,706897;23,124138;19,031034;null;6,6;3,326316;null;
+1992-10-31;92,8;null;null;205,1;164,2;1009,019355;27,787097;24,336129;20,06129;null;6,5;3,432258;null;
+1992-11-30;81,8;null;null;152,2;233,3;1006,186667;27,69;24,664;21,043333;null;6,6;3,236667;null;
+1992-12-31;null;null;null;null;81,8;null;null;null;null;null;null;null;null;
+1993-01-31;null;null;null;null;105,1;1008,367442;29,677273;25,796364;21,295455;null;5,6;null;null;
+1993-02-28;101,9;null;null;208;60,4;1007,4625;29,896429;26,047143;21,6;null;6,3;2,592857;null;
+1993-03-31;116,5;null;null;296,2;90,4;1007,293548;30,251613;26,279355;21,241935;null;5;2,520968;null;
+1993-04-30;103;null;null;249;219,3;1006,411667;29,58;25,952667;21,823333;null;5;2,515;null;
+1993-05-31;89;null;null;198,2;228,1;1007,754839;28,064516;24,194839;20,606452;null;7;3,041935;null;
+1993-06-30;76,2;null;null;200,1;208,2;1009,83;26,44;22,421333;19,03;null;7,5;2,94;null;
+1993-07-31;79,7;null;null;223,8;183,1;1008,962903;26,470968;22,662581;18,809677;null;4,3;2,537097;null;
+1993-08-31;79,2;null;null;170,6;167,5;1009,57377;25,658065;22,288;18,735484;null;6,6;2,793443;null;
+1993-09-30;null;null;null;164,6;88,9;1006,529412;26,884615;23,7728;20,05;null;8,3;3,652941;null;
+1993-10-31;103,4;null;null;204,5;99,4;1006,480645;27,777419;24,554839;20,587097;null;7,1;3,790323;null;
+1993-11-30;97,6;null;null;215,2;144,8;1004,527119;28,68;25,290667;20,89;null;6,3;2,938333;null;
+1993-12-31;null;null;null;null;80,5;1003,021951;29,11;25,938;21,8;null;6,6;null;null;
+1994-01-31;null;null;null;null;5,2;null;null;null;null;null;null;null;null;
+1994-02-28;103,7;null;null;225,8;186,4;1007,260714;30,203571;26,402143;22,021429;null;5,1;1,960714;null;
+1994-03-31;109,3;null;null;218,8;175,6;1006,948387;29,925806;26,229032;21,93871;null;5;2,568852;null;
+1994-04-30;89;null;null;170,8;210,4;1008,458333;28,796667;25,117333;21,38;null;7,5;3,016949;null;
+1994-05-31;89,8;null;null;null;211,5;1010,093548;28,216667;24,1975;20,709677;null;5;2,122581;null;
+1994-06-30;84,8;null;null;null;172,1;1011,861667;null;null;19,616667;null;8;3,222034;null;
+1994-07-31;87,1;null;null;null;195,9;1013,428571;null;null;18,70625;null;7,5;2,904082;null;
+1994-08-31;91,6;null;null;null;175,8;1013,477419;null;null;null;null;6;2,632258;null;
+1994-09-30;96,3;null;null;null;151,6;1012,933333;null;null;null;null;6;3,11;null;
+1994-10-31;null;null;null;null;68,5;1010,545833;null;null;null;null;5;3,225;null;
+1994-11-30;105,3;null;null;null;131,2;1009,206667;null;null;null;null;6;2,826667;null;
+1994-12-31;null;null;null;null;51,3;1008,410526;null;null;null;null;5;null;null;
+1995-01-31;null;null;null;null;7;null;null;null;null;null;null;null;null;
+1995-02-28;114,7;null;null;null;72,3;1007,696429;null;null;null;null;3,5;2,246429;null;
+1995-03-31;119,3;null;null;null;253,7;1006,825806;null;null;null;null;3,6;2,13871;null;
+1995-04-30;89,1;null;null;null;442,5;1006,896667;null;null;null;null;6;2,433333;null;
+1995-05-31;92,2;null;null;null;292,7;1008,551613;null;null;null;null;6,5;1,96129;null;
+1995-06-30;90,2;null;null;null;196,8;1011,973333;null;null;null;null;6;2,603333;null;
+1995-07-31;86,3;null;null;null;378,5;1012,335484;null;null;null;null;6;2,548387;null;
+1995-08-31;96,5;null;null;null;120,8;1012,783871;null;null;null;null;4;1,774194;null;
+1995-09-30;98,2;null;null;null;114,7;1013,34;null;null;null;null;4,3;2,253333;null;
+1995-10-31;117,5;null;null;null;90,6;1008,722581;null;null;null;null;5;2,745161;null;
+1995-11-30;108,7;null;null;null;230;1008,236667;null;null;null;null;5;2,723333;null;
+1995-12-31;120,2;null;null;null;134,9;1004,332258;null;null;null;null;4;2,66129;null;
+1996-01-31;null;null;null;null;58;1004,9875;null;null;null;null;4;2,458333;null;
+1996-02-29;null;null;null;null;135,8;null;null;null;null;null;3,5;null;null;
+1996-03-31;125,2;null;null;null;175,3;null;null;null;null;null;3,5;1,348387;null;
+1996-04-30;93,3;null;null;null;173,1;null;null;null;null;null;6;2,383333;null;
+1996-05-31;92;null;null;null;51;null;null;null;null;null;5;2,583871;null;
+1996-06-30;73,7;null;null;null;53,6;null;null;null;null;null;6;2,92;null;
+1996-07-31;85,1;null;null;null;65,9;null;null;null;null;null;6,1;2,209677;null;
+1996-08-31;85,2;null;null;null;125;null;null;null;null;null;6,5;2,9;null;
+1996-09-30;91,2;null;null;null;130,4;null;null;null;null;null;5;2,413333;null;
+1996-10-31;null;null;null;null;121,4;null;null;null;null;null;3,8;2,341935;null;
+1996-11-30;null;null;null;null;226,4;null;null;null;null;null;5;2,583333;null;
+1996-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1997-01-31;null;null;null;null;146,5;null;null;null;null;null;4,3;1,93;null;
+1997-02-28;null;null;null;null;457;null;null;null;null;null;4;1,857143;null;
+1997-03-31;null;null;null;null;405,6;null;null;null;null;null;4;1,629032;null;
+1997-04-30;null;null;null;null;257,5;null;null;null;null;null;5;1,268966;null;
+1997-05-31;null;null;null;null;134,8;null;null;null;null;null;5;2,580645;null;
+1997-06-30;null;null;null;null;51,4;null;null;null;null;null;5;1,86;null;
+1997-07-31;null;null;null;null;129;null;null;null;null;null;5;2,3;null;
+1997-08-31;null;null;null;null;55,8;null;null;null;null;null;5;2,777419;null;
+1997-09-30;null;null;null;null;13,8;null;null;null;null;null;4,3;2,26;null;
+1997-10-31;null;null;null;null;0;null;null;null;null;null;4;2,306452;null;
+1997-11-30;null;null;null;null;null;null;null;null;null;null;6;2,826667;null;
+1997-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1998-01-31;null;null;null;null;null;null;null;null;null;null;4;2,293103;null;
+1998-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1998-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1998-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;
+1998-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;
+
